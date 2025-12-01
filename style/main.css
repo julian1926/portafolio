@@ -299,6 +299,9 @@ a:hover {
 .skill-card:nth-child(4) .skill-icon { background: linear-gradient(135deg, #ef4444, #dc2626); }
 .skill-card:nth-child(5) .skill-icon { background: linear-gradient(135deg, #374151, #1f2937); }
 .skill-card:nth-child(6) .skill-icon { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
+.skill-card:nth-child(7) .skill-icon { background: linear-gradient(135deg, #0ea5a4, #14b8a6); }
+.skill-card:nth-child(8) .skill-icon { background: linear-gradient(135deg, #16a34a, #4ade80); }
+.skill-card:nth-child(9) .skill-icon { background: linear-gradient(135deg, #06b6d4, #0ea5ff); }
 
 .skill-info {
   flex: 1;
